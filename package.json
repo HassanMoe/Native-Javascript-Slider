@@ -1,0 +1,16 @@
+{
+  "name": "native-slider",
+  "version": "1.0.0",
+  "description": "this is a native javascript slider built for Mardig Khatchadourian Talent Acquisition Specialist at Bayt.com Before the technical interview-Front-end assessment",
+  "main": "./script/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "slider",
+    "native"
+  ],
+  "author": "Hassan Mostafa Hassan Mohamed",
+  "license": "ISC"
+}
