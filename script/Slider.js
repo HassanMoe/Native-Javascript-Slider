@@ -32,7 +32,7 @@ export class Slider {
         const slide = document.createElement("div");
         slide.classList.add("slider__slide");
         slide.innerHTML = `
-          <p class="testimonial__text">${testimonial.text || ""}</p>
+          <p class="testimonial__text">" ${testimonial.text || ""} "</p>
           <img src="${testimonial.avatar || "default-avatar-url"}" alt="profile-pic" width="80" height="80"/>  
           <h3 class="testimonial__name">${testimonial.name || "Anonymous"}</h3>
           <p class="testimonial__role">${testimonial.role || "Unknown Role"}</p>

@@ -1,8 +1,8 @@
 ## Native Javascript Slider
 ---
 
-#### Requirements
-For this slider to work properly, the following elements with specified classes are required in your HTML:
+#### DOCS
+the following elements with specified classes are required in your HTML:
 - `.slider__container`: A container for the slides.
 - `.slider__dots`: A container for navigation dots.
 - Two buttons with classes `.prev_slide` and `.next_slide` for navigation.
